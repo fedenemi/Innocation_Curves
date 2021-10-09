@@ -1,4 +1,4 @@
-# Innocation_Curves
+# Innovation_Curves
 
 Which Factors Can Be Found As Being In Correlated With Sundry Measurements Of Innovation?
 
